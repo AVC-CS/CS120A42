@@ -21,3 +21,8 @@
 // 		if distance > 500, ( charges = (distance / 500) * rate);
 // 		else, charges = rate;
 // 	print out the charge, distance, weight.
+
+
+/*
+cout << "The shipping price for package is " << price << endl;
+*/
