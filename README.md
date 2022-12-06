@@ -5,6 +5,5 @@
 
 ## Edit a file "main.cpp"
 
-> Complete the program
+> Complete the program main.cpp
 >
-> > Do not change the file name
